@@ -1,5 +1,5 @@
 # flexible-template-praser
-Parsing csv file data into array.
+It  must automatically  translate  an  HTML  template  with  placeholders  into  a  HTML  string  with placeholders replaced by the corresponding values. .
 
 ## Installing
 ```
